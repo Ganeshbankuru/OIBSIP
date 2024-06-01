@@ -1,3 +1,4 @@
+# this code is for calculating body mass index of a person by the parameters height , weight in the graphical user interface
 import tkinter as tk
 from tkinter import messagebox
 from PIL import Image,ImageTk

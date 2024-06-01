@@ -1,3 +1,5 @@
+# this code for creating random passwords for the users , there is user choice  what type of charecters  they want for their password ,and also have copy 
+# button for copying the password to the clipboard and also you can save the passoword with the date in the separate text file.
 import tkinter as tk
 import random as rd
 from datetime import datetime

@@ -1,7 +1,6 @@
 # this code is for calculating body mass index of a person by the parameters height , weight in the graphical user interface
 import tkinter as tk
 from tkinter import messagebox
-from PIL import Image,ImageTk
 
 # function for getting values from entry box and convert them to the respective types
 # then claculate the body mass index and gives result as per the value
